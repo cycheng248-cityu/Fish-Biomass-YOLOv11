@@ -23,7 +23,7 @@ A significant bottleneck in smart aquaculture is the reliance on high-cost speci
   * Sub-pixel coordinate extraction and 2nd-degree Bézier curve interpolation.
   * Temporal statistical filtration (IQR and percentile extraction).
   * L2-regularized Ridge Regression for biomass calculation.
-* `/data/` — Processed biometric extractions and final biomass estimation CSV results.
+* `/results/` — Processed biometric extractions and final biomass estimation CSV results.
 
 ---
 
@@ -39,7 +39,7 @@ To ensure full reproducibility, our raw training datasets and stereoscopic video
 ## Pipeline Methodology
 
 1. **Dual-View Inference:** The lightweight YOLOv11n-pose model tracks the snout, midline, and tail in the Top-View (X-Y plane) and Side-View (Z depth) simultaneously.
-2. **Optical Correction:** Paraxial approximations and Snell's law ($n_{water}=1.33$, $n_{glass}=1.52$) correct baseline multi-media refraction.
+2. **Optical Correction:** Paraxial approximations and Snell's law ($n_{water}=1.33$, $n_{glass}=1.50$) correct baseline multi-media refraction.
 3. **Geometric Extraction:** Bézier curve interpolation calculates the standard length, while statistical arrays extract true body thickness and height.
 4. **Biomass Regression:** An ellipsoidal volume approximation is mapped to true physical mass using the dimensionless Dynamic Shape Factor ($K$).
 
