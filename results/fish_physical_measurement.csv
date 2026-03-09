@@ -1,11 +1,12 @@
 Species,Length,Height,Thickness,True_Mass
-Carassius auratus,4.985431,2.6059787,0.8846477,5.7
-Carassius auratus,5.055036,1.9113909,0.8865999,5.3
-Carassius auratus,5.050102,1.6873863,1.1620023,5
-Carassius auratus,5.1775565,2.331448,0.71561044,6.5
-Amatitlania nigrofasciata,3.6899292,1.5944254,1.4659562,4.5
-Amatitlania nigrofasciata,3.5089784,1.5095977,1.3268583,4
-Trichogaster trichopterus,5.529109,1.9189382,1.5746905,3.8
-Trichogaster trichopterus,7.1265163,1.8323567,1.9133154,4.3
-Trichogaster pectoralis,4.3794885,1.9939017,0.95967865,1.9
-Trichogaster pectoralis,5.532878,1.8167864,1.1178169,2.9
+Carassius auratus,5.4,2.5,1.2,5.7
+Carassius auratus,5.5,2.3,1.2,5.3
+Carassius auratus,5.2,2.3,1.2,5
+Carassius auratus,6.2,2.5,1.2,6.5
+Amatitlania nigrofasciata,3.9,2.2,1.6,4.5
+Amatitlania nigrofasciata,3.6,2.1,1.4,4
+Trichogaster trichopterus,5.2,1.8,1.0,3.8
+Trichogaster trichopterus,5.8,2.0,1.2,4.3
+Trichogaster pectoralis,4.5,1.7,0.9,1.9
+Trichogaster pectoralis,4.9,1.8,1.0,2.9
+
