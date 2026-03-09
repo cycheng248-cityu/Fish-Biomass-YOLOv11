@@ -45,6 +45,11 @@ To ensure full reproducibility, our raw training datasets and stereoscopic video
 
 ---
 
+## Contact
+For any inquiries regarding the code or dataset, please contact Cheuk Yiu CHENG (cycheng248-c@my.cityu.edu.hk) at the Department of Physics, City University of Hong Kong.
+
+---
+
 ## Citation
 If you utilize this code or dataset in your research, please cite our forthcoming paper:
 
@@ -57,8 +62,5 @@ If you utilize this code or dataset in your research, please cite our forthcomin
   note={Under Review}
 }
 
----
 
-## Contact
-For any inquiries regarding the code or dataset, please contact Cheuk Yiu CHENG (cycheng248-c@my.cityu.edu.hk) at the Department of Physics, City University of Hong Kong.
 
