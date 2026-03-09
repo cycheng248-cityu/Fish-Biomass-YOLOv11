@@ -1,5 +1,0 @@
-Model,Size (MB),Params (M),GFLOPs,Latency (ms),FPS
-YOLOv8n-pose,6.3,3.1,8.4,8.3,120.5
-YOLOv8s-pose,22.2,11.4,29.6,16.35,61.2
-YOLOv11n-pose,5.5,2.7,6.7,8.96,111.6
-YOLOv11s-pose,19.0,9.7,22.5,16.04,62.4
