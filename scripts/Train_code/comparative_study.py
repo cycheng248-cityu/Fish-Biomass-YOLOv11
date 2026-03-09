@@ -14,7 +14,7 @@ if __name__ == "__main__":
     DATA_YAML = os.path.join(DATASET_DIR, "data.yaml")
     
     # The competitor models
-    competitors = ["yolov8n-pose.pt", "yolov8s-pose.pt", "yolo11s-pose.pt"]
+    competitors = ["yolov8n-pose.pt", "yolov8s-pose.pt", "yolo11n-pose.pt", "yolo11s-pose.pt"]
 
     # The EXACT SAME augmentations you used for your proposed model
     shared_args = dict(
@@ -62,4 +62,5 @@ if __name__ == "__main__":
             project="runs/comparative_study",
             name=model_name.replace(".pt", "_baseline"),
             **shared_args
+
         )
