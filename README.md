@@ -4,7 +4,7 @@
 [![Framework](https://img.shields.io/badge/YOLO-v11n--pose-blue.svg)](#)
 [![Python](https://img.shields.io/badge/Python-3.12-green.svg)](#)
 
-This repository contains the official code, trained model weights, and data links for the manuscript: **"Edge-Deployable Stereo Vision for Fish Biomass Estimation via Lightweight YOLOv11n-Pose and Dynamic Geometry"** (Submitted to *Information Processing in Agriculture*).
+This repository contains the official code, trained model weights, and data links for the manuscript: **"Edge-Deployable Stereo Vision for Fish Biomass Estimation via Lightweight YOLOv11n-Pose and Dynamic Geometry"** (Submitted to *MDPI Applied Sciences*).
 
 ## Overview
 A significant bottleneck in smart aquaculture is the reliance on high-cost specialized 3D sensors or heavy computational infrastructure. This project provides an **ultra-low-cost, edge-deployable alternative** that utilizes a dual-webcam architecture powered by a customized deep learning and geometric pipeline.
