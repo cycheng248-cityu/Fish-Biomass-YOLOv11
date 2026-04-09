@@ -32,7 +32,7 @@ A significant bottleneck in smart aquaculture is the reliance on high-cost speci
 To ensure full reproducibility, our raw training datasets and stereoscopic video samples are hosted on dedicated academic data repositories:
 
 * **Training Dataset:** The 1,151 annotated images (with 5-point anatomical keypoints) used to train the YOLOv11n-pose model are publicly available on Roboflow Universe at: `https://universe.roboflow.com/fishbiometric/fish-tracking-z9jdq/dataset/47`
-* **Test Video:** 1-minute dual-camera video clips of individual fish are available at: Fish-Biomass-YOLOv11/data
+* **Test Video:** 1-minute dual-camera video clips of individual fish are available at: `/data/`
 
 ---
 
@@ -46,7 +46,7 @@ To ensure full reproducibility, our raw training datasets and stereoscopic video
 ---
 
 ## Contact
-For any inquiries regarding the code or dataset, please contact Cheuk Yiu CHENG (cycheng248-c@my.cityu.edu.hk) at the Department of Physics, City University of Hong Kong.
+For any inquiries regarding the code or dataset, please contact Cheuk Yiu CHENG (`cycheng248-c@my.cityu.edu.hk`) at the Department of Physics, City University of Hong Kong.
 
 ---
 
