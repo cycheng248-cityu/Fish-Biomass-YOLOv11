@@ -57,9 +57,9 @@ If you utilize this code or dataset in your research, please cite our forthcomin
 @article{cheng2026edge,
   title={Edge-Deployable Stereo Vision for Fish Biomass Estimation via Lightweight YOLOv11n-Pose and Dynamic Geometry},
   author={Cheng, Cheuk Yiu and Zhang, Yuxuan and Cai, Wenlong and Lau, Condon},
-  journal={Information Processing in Agriculture},
+  journal={Applied Sciences},
   year={2026},
-  note={Under Review}
+  note={Under Review at MDPI}
 }
 
 
