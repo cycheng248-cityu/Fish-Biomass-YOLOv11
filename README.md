@@ -1,6 +1,6 @@
 # Edge-Deployable Stereo Vision for Fish Biomass Estimation 
 
-[![Paper](https://img.shields.io/badge/Status-Under_Review-yellow.svg)](#)
+[![Paper](https://img.shields.io/badge/Status-Published-green.svg)](#)
 [![Framework](https://img.shields.io/badge/YOLO-v11n--pose-blue.svg)](#)
 [![Python](https://img.shields.io/badge/Python-3.12-green.svg)](#)
 
@@ -59,7 +59,7 @@ If you utilize this code or dataset in your research, please cite our forthcomin
   author={Cheng, Cheuk Yiu and Zhang, Yuxuan and Cai, Wenlong and Lau, Condon},
   journal={Applied Sciences},
   year={2026},
-  note={Under Review at MDPI}
+  note={Published}
 }
 
 
